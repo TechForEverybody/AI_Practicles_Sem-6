@@ -1,0 +1,23 @@
+9
+B A
+C A
+D A
+E B
+F B
+G C
+H C
+I D
+J D
+6
+E
+2 3
+F
+5 9
+G
+0
+H
+7 4
+I
+2 1
+J
+5 6
